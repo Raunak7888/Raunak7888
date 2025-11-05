@@ -23,7 +23,4 @@ Fun fact: I end up analyzing anime fight logic like it's system architecture
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
----
-[![](https://visitcount.itsvg.in/api?id=Raunak7888&icon=4&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
