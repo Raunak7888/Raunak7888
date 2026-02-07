@@ -10,7 +10,7 @@ Ask me about: building APIs, system logic, or why something is slow
 Fun fact: I end up analyzing anime fight logic like it's system architecture
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raunakyadav7888) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raunak-yadav-b7b4882b8) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@raunakyadav7888) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RaunakYada51596) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raunakyadav7888@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raunakyadav7888) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raunak-yadav-b7b4882b8) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@raunakyadav7888) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RaunakYada51596) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raunakyadav7888@gmail.com) [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/raunak7888)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
