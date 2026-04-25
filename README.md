@@ -111,30 +111,6 @@ public class Raunak extends Developer {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
-
-## 🚀 Featured Projects
-
-> 📌 *Pin your best repos and replace the links below*
-
-<div align="center">
-
-<a href="https://github.com/Raunak7888/[PROJECT-1-REPO]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raunak7888&repo=[PROJECT-1-REPO]&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" />
-</a>
-&nbsp;
-<a href="https://github.com/Raunak7888/[PROJECT-2-REPO]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raunak7888&repo=[PROJECT-2-REPO]&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" />
-</a>
-
-</div>
-
-<br/>
-
 <!--
 📝 EDITABLE: Add more projects as table rows below
 
