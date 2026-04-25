@@ -150,7 +150,6 @@ public class Raunak extends Developer {
   <img alt="github-snake" src="https://raw.githubusercontent.com/Raunak7888/Raunak7888/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </picture>
 
-> ⚠️ *To enable the snake animation, set up the [platane/snk](https://github.com/platane/snk) GitHub Action in your profile repo.*
 
 </div>
 
